@@ -1,0 +1,5 @@
+{
+  "name": "prompt-polisher",
+  "owner": { "name": "prompt-polisher" },
+  "plugins": [{ "name": "prompt-polisher", "source": "./" }]
+}
